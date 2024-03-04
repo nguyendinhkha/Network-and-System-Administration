@@ -157,5 +157,5 @@ To solve this problem, I created a trigger for my monitoration ( Triggers are lo
 
 => The problems are showed .
 
-P/s : There are more informations than just download speed , … depends on my configuration and what I want to see .
+P/s : There are more informations than just download speed , … depends on my configuration and what I want to see.
 
